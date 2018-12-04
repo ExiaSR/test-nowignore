@@ -1,0 +1,8 @@
+*
+!.gitignore
+!.nowignore
+!*.js
+!package.json
+!now.json
+!yarn.lock
+!routes/
